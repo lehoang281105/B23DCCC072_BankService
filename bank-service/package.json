@@ -1,0 +1,13 @@
+{
+  "name": "bank-service",
+  "version": "1.0.0",
+  "description": "Simulated bank gateway for fee payment system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
